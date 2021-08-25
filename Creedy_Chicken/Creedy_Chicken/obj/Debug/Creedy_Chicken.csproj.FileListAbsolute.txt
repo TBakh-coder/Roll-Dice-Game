@@ -1,0 +1,12 @@
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\bin\Debug\Creedy_Chicken.exe.config
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\bin\Debug\Creedy_Chicken.exe
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\bin\Debug\Creedy_Chicken.pdb
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.csprojAssemblyReference.cache
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.Form1.resources
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.Properties.Resources.resources
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.exe
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.pdb
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.Form2.resources
+C:\Users\huawei\source\repos\Creedy_Chicken\Creedy_Chicken\obj\Debug\Creedy_Chicken.Form3.resources
